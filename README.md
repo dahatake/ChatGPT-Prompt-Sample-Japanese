@@ -16,7 +16,6 @@ https://www.promptingguide.ai/jp
 ## 1. Bing Chat
 https://www.bing.com/
 
-
 ## 2. OpenAI
 https://chat.openai.com/chat
 
