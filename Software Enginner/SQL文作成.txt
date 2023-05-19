@@ -37,3 +37,5 @@ A: 2023年３月の顧客ごとの売り上げデータは以下のSQL文で取�
     SELECT customer, SUM(sales_qty) as total_sales FROM sales WHERE sales_date BETWEEN '2023-03-01' AND '2023-03-31' GROUP BY customer; 
 
  
+Source:
+https://zenn.dev/masakikato/articles/azure-openai-prompt-sql
