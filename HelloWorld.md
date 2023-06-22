@@ -2,7 +2,7 @@
 
 ChatGPT の基礎的な Prompt です。
 
-# Promot    
+# Promot 
 
 ```cmd
 ### 役割 ###
