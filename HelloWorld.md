@@ -49,8 +49,14 @@ ChatGPT の基礎的な Prompt です。
 Tweet を作って
 ```
 
-CoT (Chain of Thoght) の例
+CoT (Chain of Thoght) の例:
 
 ```cmd
 一歩ずつ順番に考えてください。
+```
+
+制限の例:
+
+```cmd
+目的が達成できない場合は、不足している情報を、質問してください。
 ```

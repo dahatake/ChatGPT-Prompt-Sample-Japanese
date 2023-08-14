@@ -22,3 +22,5 @@ https://chat.openai.com/chat
 ## 3. Azure OpenAI Service
 https://learn.microsoft.com/ja-jp/azure/cognitive-services/openai/overview
 
+## 4. Prompt Engineering Basic
+https://github.com/microsoft/OpenAIWorkshop/tree/main/scenarios/prompt_engineering
