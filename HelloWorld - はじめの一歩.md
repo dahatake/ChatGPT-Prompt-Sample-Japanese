@@ -1,4 +1,4 @@
-# Hello World
+# Hello World - はじめの一歩
 
 ChatGPT の基礎的な Prompt です。
 
