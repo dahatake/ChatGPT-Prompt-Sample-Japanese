@@ -21,3 +21,16 @@ DALL-E 3 での Prompt 例です。
 ・日本語の文字を入れることはできない
 ・画像ごとにシード値を持っている
 ```
+
+ChatGPT の中で DALL-E 3
+
+```cmd
+Use a 「画像生成プロンプト」as it is and just run text2img
+```
+
+例:
+use a 「高校生が野球をしている」 as it is and just run text2img
+
+参考サイト:
+
+https://chatgpt-lab.com/n/n52b6cea5f655?sub_rt=share_b
