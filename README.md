@@ -76,6 +76,8 @@ ChatGPT の基礎的な Prompt です。
 Tweet を作って
 ```
 
+# GPT の思考の方向性を調整する
+
 人にするようなアドバイスをすると、期待した出力結果に近づきやすくなる
 
 CoT (Chain of Thoght) の例:
