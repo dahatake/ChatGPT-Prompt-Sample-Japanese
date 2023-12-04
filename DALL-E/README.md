@@ -33,4 +33,6 @@ use a 「高校生が野球をしている」 as it is and just run text2img
 
 参考サイト:
 
+https://www.ka-net.org/blog/?p=15498
+
 https://chatgpt-lab.com/n/n52b6cea5f655?sub_rt=share_b
