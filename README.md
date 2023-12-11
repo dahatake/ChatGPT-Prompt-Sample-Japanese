@@ -13,7 +13,7 @@ https://www.promptingguide.ai/jp
 
 # Tool
 
-## 1. Bing Chat
+## 1. Microsoft Copliot (Bing Chat)
 https://www.bing.com/
 
 ## 2. OpenAI
@@ -36,7 +36,7 @@ ChatGPT の基礎的な Prompt です。
 関西の方として振舞ってください。
 ```
 
-以下は Bing Chat で
+以下は Microsoft Copilot (Bing Chat)などWeb上の公開データを同時にもってきてもらうとよいです。
 
 ```cmd
 ### 指示 ###
@@ -74,6 +74,17 @@ ChatGPT の基礎的な Prompt です。
 
 ```cmd
 Tweet を作って
+```
+
+# 音声入力前提
+
+入力用のテキストボックスに最初にこの Prompt を入力した後で、Windows + Hキーや、Microsoft Office のディクテーション機能などで音声入力機能をオンにします。そして、PCやスマホに向かって話かけます。
+
+Prompt
+```cmd
+以下の{文章}をよりフォーマルかつ詳細な文章に校正してください。
+{文章}:###
+<ここに音声入力した文字列が入力されます>
 ```
 
 # GPT の思考の方向性を調整する
