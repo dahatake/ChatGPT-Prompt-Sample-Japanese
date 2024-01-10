@@ -147,7 +147,24 @@ Prompt:
 
 一度で出力が終わらない場合があります。その際には「作業を続けてください」とPromptしてください。
 
-その他ご興味がある方は、こちらもご参考に...
+
+Web ブラウザーで **Microsoft Edge** が使える方は、以下も続けてください。
+
+- Microsoft Copilot の出力の中に、ソースとしての**Webサイトのリンク**があります。それをクリックして、そのサイトへ移動します。
+- ブラウザーの右上にある **Copilot のアイコン**をクリックして、Microsoft Edge Copilot を表示させます。
+- 以下の様なPromptを入力します。
+
+```cmd
+このページを要約してください。
+```
+
+Microsoft Edge Copilot では、ブラウザーの中で表示されているサイトやPDFファイルなどにアクセス権があれば、その内容を読み込んで、Promptを実行します。
+
+Microsoft Edge Copilot:
+https://www.microsoft.com/ja-jp/edge/features/copilot?form=MA13FJ
+
+
+その他の調査対象にご興味がある方は、こちらもご参考に...
 
 [ビジネス戦略](/ビジネス戦略/)
 
