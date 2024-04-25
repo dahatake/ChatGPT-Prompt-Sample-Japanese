@@ -28,7 +28,19 @@ https://arxiv.org/abs/2309.03409
 目的が達成できない場合は、不足している情報を、質問してください。
 ```
 
-# 2. 思考の方向性を示す言葉たち
+# 2.　主語と述語の関連性を強調する
+
+言語学で分類されている文章の構造解析の手法を明示するで、出力結果を異なる方向に導くことができます。
+
+```cmd
+以下のテーマについて、句構造文法の枠組みを用いて、理解しやすい文章を作成してください:
+```
+
+句鋼構造文法:
+https://ja.wikipedia.org/wiki/%E5%8F%A5%E6%A7%8B%E9%80%A0%E6%96%87%E6%B3%95
+
+
+# 3. 思考の方向性を示す言葉たち
 
 思考の方向性を定義:
 
@@ -85,7 +97,7 @@ https://arxiv.org/abs/2309.03409
 source:
 https://twitter.com/ctgptlb/status/1710062428778537337?s=43&t=C4VBAwZGDwmbZHLBoG98OA
 
-# 3. SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures
+# 4. SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures
 
 https://arxiv.org/abs/2402.03620
 
