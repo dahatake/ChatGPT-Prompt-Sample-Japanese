@@ -51,6 +51,10 @@ ChatGPT の基礎的な Prompt です。
 どうやったら100点に改善できますか?100点にするため不足してるものを具体的に列挙してください。100点にするプロンプトを作成してください。
 ```
 
+参考: ～生成AI業界のトップランナーが語る～ビジネスへのアドオンでおさえるべき知識と最新動向 (オンライン/参加無料)【10/22開催】JDLA緊急企画！:
+https://www.youtube.com/live/YX0_GvD0jkE
+
+
 # 参考
 
 各種Prompt Engineeringの日本語実例集（Zero-CoT、mock、ReAct、ToT、Metacog、Step Back、IEPなど） by @YutaroOgawa2 さん
