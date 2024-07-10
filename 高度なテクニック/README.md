@@ -8,7 +8,7 @@
 
 人にするようなアドバイスをすると、期待した出力結果に近づきやすくなる
 
-CoT (Chain of Thoght) の例:
+CoT (Chain of Thought) の例:
 
 ```cmd
 ステップバイステップで考えてください。
@@ -116,7 +116,27 @@ https://ja.wikipedia.org/wiki/%E5%8F%A5%E6%A7%8B%E9%80%A0%E6%96%87%E6%B3%95
 source:
 https://twitter.com/ctgptlb/status/1710062428778537337?s=43&t=C4VBAwZGDwmbZHLBoG98OA
 
-# 4. SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures
+
+# 4. Promptを自己改善してもらう
+
+`パワハラ プロンプト`という言い方をしている方もいます。
+一度、出力結果が思った通りにならない場合、Promptを変更してみることよくあります。その際に、どういう変更をしたらいいのかをChatGPTに考えてもらいます。数回試してもいいかもしれません
+
+このPromptを実行した結果で試した後に、以下を**じっくり考える事**をお勧めします。次回から、もっと短い回数のPromptでご自身の欲しい結果が得られやすくなります。
+
+- どんな改善があったのか?
+- なぜその改善をしたのか?
+
+```cmd
+{目的}を達成できたのか、という評価を考えます。最後に作成した結果を60点だとします。
+具体的にどのように改善をしたら100点にできますか?100点にするため不足してるものを列挙してください。{目的}を100点で達成するための、詳細な回答を作成してください。
+```
+
+参考: ～生成AI業界のトップランナーが語る～ビジネスへのアドオンでおさえるべき知識と最新動向 (オンライン/参加無料)【10/22開催】JDLA緊急企画！:
+https://www.youtube.com/live/YX0_GvD0jkE
+
+
+# 5. SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures
 
 https://arxiv.org/abs/2402.03620
 
