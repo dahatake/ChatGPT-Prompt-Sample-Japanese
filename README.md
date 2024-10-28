@@ -1,5 +1,5 @@
-# ChatGPT-Prompt-Sample-Japanese
-ChatGPT の Prompt のサンプルです。
+# GenerativeAI-Prompt-Sample-Japanese
+GenerativeAI の Prompt のサンプルです。
 
 # 注意点
 全ては自己責任です。ご利用は十二分に注意をしてください。以下は ChatGPT に限らず情報管理の一般論とも言えますが。
