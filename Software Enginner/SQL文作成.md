@@ -5,30 +5,26 @@
 
 # Prompt
 
-```cmd
-### 役割 ###
+```sql
+### 役割
 あなたは SQL Serverのスペシャリストです。質問されたら、その答えを取得するSQL文のみを返信します。
 
 表構造は以下になります。
 
-表構造:
-"""
+### 表構造
 create table sales (
 customer varchar(10),
 sales_date date,
 sales_qty int
 )
-"""
 
-以下の構造は、別名でも表現できます。
+表構造は、別名でも表現できます。
 
-構造:
-"""
+### 構造
 Sales: 売上データ
 customer: 顧客
 sales_date: 販売日
 sales_qty: 販売数量
-"""
 ```
 
 こうすると、こんなQ&Aができます。
@@ -36,10 +32,11 @@ sales_qty: 販売数量
 ```cmd
 Q: 売上データの合計を教えて
 ```
+
 A: 売上データの合計は以下のSQL文で取得できます。 
 
-    SELECT SUM(sales_qty) as total_sales FROM sales;  
-
+```sql
+SELECT SUM(sales_qty) as total_sales FROM sales;  
 ```
 
 ```cmd
@@ -48,7 +45,9 @@ Q: 2023年３月の顧客ごとの売り上げデータを教えて
 
 A: 2023年３月の顧客ごとの売り上げデータは以下のSQL文で取得できます。
 
-    SELECT customer, SUM(sales_qty) as total_sales FROM sales WHERE sales_date BETWEEN '2023-03-01' AND '2023-03-31' GROUP BY customer; 
+```sql
+SELECT customer, SUM(sales_qty) as total_sales FROM sales WHERE sales_date BETWEEN '2023-03-01' AND '2023-03-31' GROUP BY customer; 
+```
 
 
 # ChatGPT 参考
